@@ -8,11 +8,19 @@ body {
 footer {
 	text-align: center;
 }
+div{
+  background-color: darkgray;
+}
+p{
+  background-color: darkgrey;
+  color: black;
+  text-align: right;
+}
 #main{
   display: flex;
   justify-content: center;
   margin: 0% 10% 5% 10%;
-  background-color: white;
+  background-color: darkgrey;
 }
 ul {
   list-style-type: none;
@@ -142,4 +150,19 @@ img {vertical-align: middle;}
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
+}
+
+/*
+asukoht
+*/
+
+.asukoht{
+  text-align: left;
+  width: 800px;
+  height: 500px;
+}
+.map {
+  border: 3px inset black;
+  height: 300px;
+  width: 400px;
 }
