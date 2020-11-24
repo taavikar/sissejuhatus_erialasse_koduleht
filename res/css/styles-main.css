@@ -1,0 +1,64 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    background-color: darkgray;
+}
+footer {
+  text-align: center;
+  background-color: gray;
+  width: 101%;
+}
+div{
+  background-color: darkgray;
+}
+p{
+  background-color: darkgrey;
+  color: black;
+  text-align: left;
+  margin-left: 1.4%;
+}
+#main{
+  display: flex;
+  justify-content: center;
+  margin: 0 10% 5% 10%;
+  background-color: darkgrey;
+}
+body ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  width: 101%;
+}
+
+body ul li {
+  float: left;
+  width: 33.3334%;
+
+}
+
+body ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: #333;
+}
+
+body ul li a:hover {
+  background-color: #111;
+}
+
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
