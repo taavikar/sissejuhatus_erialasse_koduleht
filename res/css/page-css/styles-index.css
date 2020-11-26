@@ -6,7 +6,6 @@
   width: 50%;
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
@@ -24,6 +23,7 @@
   width:450px;
   margin:0 auto;
 }
+/*allikas: http://css3.bradshawenterprises.com/cfimg/*/
 #index_text img {
   position:absolute;
   left:0;
@@ -34,6 +34,7 @@
   width:100%;
   border: 2px solid black;
 }
+/*allikas: http://css3.bradshawenterprises.com/cfimg/*/
 #index_text img.top:hover {
   opacity:0;
 }

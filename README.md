@@ -1,2 +1,13 @@
 # sissejuhatus_erialasse_koduleht
 Kodulehe eesmärgiks on luua algne ülevaade ettevõttest ja tuua näide varasematest töödest.
+
+Koduleht koosneb kolmest alamlehest:
+1. Info ettevõttest
+2. Galerii tehtud töödest
+3. Kontaktid
+
+Rühm C koosseis:
+- Andre Viibur
+- Taavi Karelson
+
+Töö jaotus võrdselt kahe liikme vahel.
