@@ -21,12 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1b8a272-b4cb-4c43-ba83-1ae55c51bef5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/css/page-css/styles-finished_jobs.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/css/page-css/styles-finished_jobs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/css/page-css/styles-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/css/page-css/styles-index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/css/styles-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/css/styles-main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/res/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished_jobs.html" beforeDir="false" afterPath="$PROJECT_DIR$/finished_jobs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +55,7 @@
       <workItem from="1606301752844" duration="293000" />
       <workItem from="1606302151855" duration="223000" />
       <workItem from="1606302408040" duration="10074000" />
+      <workItem from="1606417523233" duration="694000" />
     </task>
     <servers />
   </component>
@@ -76,5 +72,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
