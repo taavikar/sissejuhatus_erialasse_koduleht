@@ -2,7 +2,7 @@
 
 /*Muutujad*/
 let slideIndex = 1;
-showSlides(slideIndex);
+
 
 /*Järgmine/eelmise pildi nupud galeriis*/
 function plusSlides(n) {
