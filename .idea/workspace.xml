@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f1b8a272-b4cb-4c43-ba83-1ae55c51bef5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/res/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/images/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/finished_jobs.html" beforeDir="false" afterPath="$PROJECT_DIR$/finished_jobs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/css/page-css/styles-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/css/page-css/styles-index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/css/styles-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/css/styles-main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +58,25 @@
       <option name="presentableId" value="Default" />
       <updated>1606215507434</updated>
       <workItem from="1606215508532" duration="3755000" />
+      <workItem from="1606297999538" duration="178000" />
+      <workItem from="1606301752844" duration="293000" />
+      <workItem from="1606302151855" duration="223000" />
+      <workItem from="1606302408040" duration="6520000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

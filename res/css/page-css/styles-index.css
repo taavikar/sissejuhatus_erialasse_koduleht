@@ -15,8 +15,29 @@
 
 .index_img {
   width:100%;
-  border: 2px solid black;
+
 }
 #index_text {
   text-align: justify;
+  position:relative;
+  height:281px;
+  width:450px;
+  margin:0 auto;
+}
+#index_text img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+  width:100%;
+  border: 2px solid black;
+}
+#index_text img.top:hover {
+  opacity:0;
+}
+
+#list li {
+  margin-bottom: 20px;
 }
